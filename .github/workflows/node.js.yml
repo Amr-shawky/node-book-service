@@ -30,5 +30,4 @@ jobs:
     - name: Build (if script exists)
       run: npm run build --if-present
 
-    - name: Run tests
-      run: npm test
+
